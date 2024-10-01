@@ -7,4 +7,3 @@ Make changes with the Web IDE!
 
 Now I am making changes on VSC after I have cloned it. 
 
-I am now making another change to see how it shows up on VSC.
